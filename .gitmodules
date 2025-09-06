@@ -1,6 +1,63 @@
-[submodule "runtime"]
-	path = runtime
-	url = ../runtime
+[submodule "external/egcs-1.1.2"]
+	path = external/egcs-1.1.2
+	url = ../../thirdpartystuff/egcs-1.1.2
+[submodule "external/foreign-linux"]
+	path = external/foreign-linux
+	url = ../../thirdpartystuff/foreign-linux
+[submodule "external/vm-basiclinux35"]
+	path = external/vm-basiclinux35
+	url = ../../thirdpartystuff/vm-basiclinux35
+[submodule "external/vm-dos"]
+	path = external/vm-dos
+	url = ../../thirdpartystuff/vm-dos
+[submodule "external/win32-borland452"]
+	path = external/win32-borland452
+	url = ../../thirdpartystuff/win32-borland452
+[submodule "external/win32-clang-3.5.0-linux64"]
+	path = external/win32-clang-3.5.0-linux64
+	url = ../../win32-clang350-linux64
+[submodule "external/win32-clang-4.0.0"]
+	path = external/win32-clang-4.0.0
+	url = ../../thirdpartystuff/win32-clang-400
+[submodule "external/win32-cmake-3.5.2"]
+	path = external/win32-cmake-3.5.2
+	url = ../../thirdpartystuff/win32-cmake-3.5.2
+[submodule "external/win32-cmake-3.31.4"]
+	path = external/win32-cmake-3.31.4
+	url = ../../thirdpartystuff/win32-cmake-3.31.4
+[submodule "external/win32-djgpp-12.2.0"]
+	path = external/win32-djgpp-12.2.0
+	url = ../../thirdpartystuff/win32-djgpp-12.2.0
+[submodule "external/win32-dosbox"]
+	path = external/win32-dosbox
+	url = ../../thirdpartystuff/win32-dosbox-x-20241204
+[submodule "external/win32-gnu"]
+	path = external/win32-gnu
+	url = ../../thirdpartystuff/win32-gnu
+[submodule "external/win32-mingw32-make"]
+	path = external/win32-mingw32-make
+	url = ../../thirdpartystuff/win32-mingw32-make
+[submodule "external/win32-mingw440-32"]
+	path = external/win32-mingw440-32
+	url = ../../thirdpartystuff/win32-mingw440-32
+[submodule "external/win32-mingw810-32"]
+	path = external/win32-mingw810-32
+	url = ../../thirdpartystuff/win32-mingw810-32
+[submodule "external/win32-mingw810-64"]
+	path = external/win32-mingw810-64
+	url = ../../thirdpartystuff/win32-mingw810-64
+[submodule "external/win32-ninja"]
+	path = external/win32-ninja
+	url = ../../thirdpartystuff/win32-ninja
+[submodule "external/win32-python3"]
+	path = external/win32-python3
+	url = ../../thirdpartystuff/win32-python3
+[submodule "external/win32-watcom10"]
+	path = external/win32-watcom10
+	url = ../../thirdpartystuff/win32-watcom10
 [submodule "pour"]
 	path = pour
 	url = ../pour
+[submodule "runtime"]
+	path = runtime
+	url = ../runtime
