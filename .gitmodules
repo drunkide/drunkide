@@ -34,6 +34,9 @@
 [submodule "external/win32-gnu"]
 	path = external/win32-gnu
 	url = ../../thirdpartystuff/win32-gnu
+[submodule "external/win32-go-1.23.6"]
+	path = external/win32-go-1.23.6
+	url = ../../thirdpartystuff/win32-go-1.23.6
 [submodule "external/win32-mingw32-make"]
 	path = external/win32-mingw32-make
 	url = ../../thirdpartystuff/win32-mingw32-make
@@ -61,3 +64,6 @@
 [submodule "runtime"]
 	path = runtime
 	url = ../runtime
+[submodule "server"]
+	path = server
+	url = ../server
